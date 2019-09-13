@@ -32,29 +32,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.function.js">
-    <configuration name="==1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="==1.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.const1.js">
+    <configuration name="const1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="const1.js" working-dir="$PROJECT_DIR$/variableDeclaration/const">
       <method v="2" />
     </configuration>
-    <configuration name="===1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="===1.js" working-dir="$PROJECT_DIR$">
+    <configuration name="let1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="let1.js" working-dir="$PROJECT_DIR$/variableDeclaration/let">
       <method v="2" />
     </configuration>
-    <configuration name="function.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="function.js" working-dir="$PROJECT_DIR$">
+    <configuration name="loop2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="loop2.js" working-dir="$PROJECT_DIR$/loop">
       <method v="2" />
     </configuration>
-    <configuration name="if.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="if.js" working-dir="$PROJECT_DIR$">
+    <configuration name="typeof.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="typeof.js" working-dir="$PROJECT_DIR$/typeOfMethod">
       <method v="2" />
     </configuration>
-    <configuration name="typeof.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="typeof.js" working-dir="$PROJECT_DIR$">
+    <configuration name="var1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="var1.js" working-dir="$PROJECT_DIR$/variableDeclaration/var">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.function.js" />
+        <item itemvalue="Node.js.const1.js" />
+        <item itemvalue="Node.js.var1.js" />
+        <item itemvalue="Node.js.let1.js" />
         <item itemvalue="Node.js.typeof.js" />
-        <item itemvalue="Node.js.===1.js" />
-        <item itemvalue="Node.js.==1.js" />
-        <item itemvalue="Node.js.if.js" />
+        <item itemvalue="Node.js.loop2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -70,7 +70,11 @@
       <updated>1568090753080</updated>
       <workItem from="1568090754617" duration="3911000" />
       <workItem from="1568135454925" duration="11228000" />
-      <workItem from="1568181054211" duration="1019000" />
+      <workItem from="1568181054211" duration="6637000" />
+      <workItem from="1568277384788" duration="2315000" />
+      <workItem from="1568304633667" duration="21721000" />
+      <workItem from="1568346836165" duration="6446000" />
+      <workItem from="1568392575050" duration="5917000" />
     </task>
     <servers />
   </component>
