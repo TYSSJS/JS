@@ -28,6 +28,21 @@ var a=18;
 a=20;
 console.log(a);
 
+//5.To check Re-Initilization in if condition returns-true/false
+var x=10;
+if(x=15)
+{
+  console.log("true");
+}
+console.log(x);
+
+//6.Assigning is not mandatory in javascript
+12;
+console.log("hii");
+
+anything;
+console.log("hi"); //Error :Anything is not defined
+
 /*conclusion:Variable declared with var -
 1.Is capable of holding all type of data
 2.Re_Declaration within same scope is possible
