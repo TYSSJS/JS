@@ -9,7 +9,7 @@ console.log(s.charAt(true)) //output is e
 
 //with boolean value false
 var s="hello"
-console.log(s.charAt(true)) //output is e
+console.log(s.charAt(false)) //output is e
 
 //with number greater than its length
 
