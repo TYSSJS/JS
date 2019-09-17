@@ -1,4 +1,7 @@
-var s=true;
+// var s=true;
+//
+// console.log(Number.isInteger(s));
 
-console.log(Number.isInteger(s));
-
+var b;
+console.log(b);
+b=12;
