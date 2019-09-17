@@ -1,0 +1,14 @@
+//Program on IIFE's function
+
+var x=(function fun(a,b) {
+    console.log("bye")
+    console.log(a)
+})(12);  //used for execution of function
+//console.log(x())
+console.log(typeof(x))
+
+var x=(function ()
+{
+    console.log("js")
+})();
+console.log(typeof(x))
