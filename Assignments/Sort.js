@@ -73,3 +73,7 @@ var arr2=[];
 console.log(arr2.sort());//[]
  */
 
+//sorting string without any argument
+var str=['z','b','c','e','a'];
+console.log(str.sort());//[ 'a', 'b', 'c', 'e', 'z' ]
+console.log(str);//[ 'a', 'b', 'c', 'e', 'z' ]

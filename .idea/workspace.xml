@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72865803-6697-4fa1-8093-5f0774d9446e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Qbi1h7XCUZ4kiRCUq4Tmq9eF5X" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaScript\DMS" />
+      <recent name="D:\JavaScript\Operators" />
+      <recent name="D:\JavaScript\Variable" />
+      <recent name="D:\JavaScript\Functions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.Class.js">
+    <configuration name="Class.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ECMA/Class.js" working-dir="$PROJECT_DIR$/ECMA">
+      <method v="2" />
+    </configuration>
+    <configuration name="Closer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Closer/Closer.js" working-dir="$PROJECT_DIR$/Closer">
+      <method v="2" />
+    </configuration>
+    <configuration name="Function Hosting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Hosting/Function Hosting.js" working-dir="$PROJECT_DIR$/Hosting">
+      <method v="2" />
+    </configuration>
+    <configuration name="Global.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Variable/Global.js" working-dir="$PROJECT_DIR$/Variable">
+      <method v="2" />
+    </configuration>
+    <configuration name="Variable hosting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Hosting/Variable hosting.js" working-dir="$PROJECT_DIR$/Hosting">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Class.js" />
+        <item itemvalue="Node.js.Closer.js" />
+        <item itemvalue="Node.js.Function Hosting.js" />
+        <item itemvalue="Node.js.Variable hosting.js" />
+        <item itemvalue="Node.js.Global.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72865803-6697-4fa1-8093-5f0774d9446e" name="Default Changelist" comment="" />
+      <created>1568045484403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568045484403</updated>
+      <workItem from="1568045495527" duration="711000" />
+      <workItem from="1568046525465" duration="53000" />
+      <workItem from="1568080435573" duration="16000" />
+      <workItem from="1568090269122" duration="1565000" />
+      <workItem from="1568106334254" duration="1238000" />
+      <workItem from="1568111945572" duration="2375000" />
+      <workItem from="1568162891198" duration="132000" />
+      <workItem from="1568163264076" duration="5531000" />
+      <workItem from="1568174588559" duration="3439000" />
+      <workItem from="1568192300967" duration="598000" />
+      <workItem from="1568215921955" duration="6310000" />
+      <workItem from="1568249594278" duration="4731000" />
+      <workItem from="1568260832561" duration="4712000" />
+      <workItem from="1568305000338" duration="6801000" />
+      <workItem from="1568335298923" duration="5521000" />
+      <workItem from="1568345568849" duration="12342000" />
+      <workItem from="1568430067685" duration="12641000" />
+      <workItem from="1568518119887" duration="10335000" />
+      <workItem from="1568593558774" duration="4623000" />
+      <workItem from="1568606686951" duration="3861000" />
+      <workItem from="1568646252153" duration="4441000" />
+      <workItem from="1568683876521" duration="4152000" />
+      <workItem from="1568692263712" duration="4286000" />
+      <workItem from="1568732915760" duration="5460000" />
+      <workItem from="1568767407048" duration="4268000" />
+      <workItem from="1568780807628" duration="3365000" />
+      <workItem from="1568817332136" duration="8688000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
