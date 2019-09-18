@@ -72,8 +72,66 @@ console.log(arr);//[1,3,5,6]
 
 //splice(p1,p2,p3)- splice with three argument acts as p1- index,p2-no. of element to be deleted,p3- element
 // to be added
-
+/*
 var arr=[1,3,2,4,5,6];
 console.log(arr);//[1,3,2,4,5,6]
 console.log(arr.splice(2,2,9));//[2,4]
 console.log(arr);//[1,3,9,5,6]- it adds 9 at the place of index from which we want to delete the elements.
+ */
+
+//sort()- so this function sorts the array in ascending order and it sorts by unit wise or we can say that
+//unicode.
+/*
+var arr=[1,25,4,34,23];
+function fun(a,b)
+{
+    return a-b;
+}
+console.log(arr.sort());//[ 1, 23, 25, 34, 4 ]- unit wise comparision
+console.log(arr.sort(fun));//[ 1, 4, 23, 25, 34 ]- whole number wise comparision
+console.log(arr);//[ 1, 4, 23, 25, 34 ]
+ */
+
+//filter() is a function which is used to filter the values in the array, so it accepts minimum one parameter.
+//so as an parameter in  filter() where p1- hold the value of array, p2- holds the index and p3-holds the original
+// array and after that all the parameter. It doesn't affects the resultant array.
+/*
+var arr=[9,1,7,3,6,5];
+function fun(a,b,c,d)
+{
+    console.log(a);
+    console.log(b);
+    console.log(c);
+    console.log(d);
+  return a>5;
+}
+console.log(arr.filter(fun));//[ 9, 7, 6 ]
+console.log(arr);//[ 9, 1, 7, 3, 6, 5 ]
+*/
+
+//reduce() reduce is the function which is use to reduce the whole array in to a single value.
+//It it doesn't affect the resultant array and it require minimum two parameters.
+/*
+var arr=[9,2,6,4,1,7];
+var str=['b','c','e','f','d','a'];
+var str1=["a","b","c"];
+function fun(a,b)
+{
+    return a+b;
+}
+console.log(arr.reduce(fun));
+console.log(arr);
+ */
+
+//Map() function performs action on each & every element in array.
+// The minimum parameter it accepts is one. It also not affects the resultant array.
+/*
+var arr=[1,2,3,4];
+function myMap(a)
+{
+ return a+3;
+}
+console.log(arr.map(myMap));//[ 4, 5, 6, 7 ]- added 3 in each element.
+console.log(arr);//[ 1, 2, 3, 4 ]
+
+ */
