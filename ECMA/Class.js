@@ -128,6 +128,8 @@ class B extends A{
     }
 }
 new A();
+
+
 // Constructor -A super() is calling the immediate parent class constructor.
 /* To use super() two conditions should be mandatory
 * 1.Whenever we are using user defined constructor at that time super() should their in that constructor

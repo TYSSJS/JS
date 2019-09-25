@@ -4,14 +4,14 @@
 * sort() is partially incomplete and it affects the resultant array.*/
 
 
-//var arr=[25,1,3,23,4];
+//1.var arr=[25,1,3,23,4];
 /*
 console.log(arr.sort());//[ 1, 23, 3, 4 ]
 console.log(arr);
  */
 
 
-//Designing a function and taking it as parameter for sort function.
+//2.Designing a function and taking it as parameter for sort function.
 
 function mySort(a,b)
 {
@@ -24,7 +24,7 @@ console.log(arr.sort(mySort()));//TypeError: The comparison function must be eit
 console.log(arr);
  */
 
-//Now taking mySort as an argument
+//3.Now taking mySort as an argument
 /*
 console.log(arr.sort(mySort));
 //[ 1, 3, 4, 23, 25 ] So mySort is a meaningful formal argument so compiler is
@@ -34,14 +34,14 @@ console.log(arr.sort(mySort));
 console.log(arr);//[ 1, 3, 4, 23, 25 ]
  */
 
-//Taking string characters.
+//4.Taking string characters.
 /*
 var str=['z','b','c','e','a'];
 console.log(str.sort(mySort));//[ 'z', 'b', 'c', 'e', 'a' ]
 console.log(str);//[ 'z', 'b', 'c', 'e', 'a' ]
  */
 
-//Taking all numbers in string
+//5.Taking all numbers in string
 /*
 var arr1=["10",'2',"7",'4',"8",'1'];
 console.log(typeof (arr1.sort(mySort)));//object
@@ -50,7 +50,7 @@ console.log(typeof ('1'));//string
  */
 
 
-//Taking combination of string numbers and numbers
+//6.Taking combination of string numbers and numbers
 /*
 var arr=[1,'2',0,'9','0',10];
 console.log(arr.sort(mySort)); //[ 0, '0', 1, '2', '9', 10 ]
@@ -59,7 +59,7 @@ console.log(arr);
 //string number and number
  */
 
-//Taking all the string for sorting
+//7.Taking all the string for sorting
 /*
 var str1=['you','about','knowledge','basic'];
 console.log(str1.sort(mySort));
@@ -67,13 +67,13 @@ console.log(str1.sort(mySort));
 console.log(str1);//[ 'you', 'about', 'knowledge', 'basic' ]
  */
 
-//Taking an empty array
+//8.Taking an empty array
 /*
 var arr2=[];
 console.log(arr2.sort());//[]
  */
 
-//sorting string without any argument
+//9.sorting string without any argument
 var str=['z','b','c','e','a'];
 console.log(str.sort());//[ 'a', 'b', 'c', 'e', 'z' ]
 console.log(str);//[ 'a', 'b', 'c', 'e', 'z' ]

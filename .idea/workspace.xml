@@ -20,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaScript Selenium" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -43,29 +43,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Class.js">
-    <configuration name="Class.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ECMA/Class.js" working-dir="$PROJECT_DIR$/ECMA">
+  <component name="RunManager" selected="Node.js.PromiseObject.js">
+    <configuration name="Concepts.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Randoms/Concepts.js" working-dir="$PROJECT_DIR$/Randoms">
       <method v="2" />
     </configuration>
-    <configuration name="Closer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Closer/Closer.js" working-dir="$PROJECT_DIR$/Closer">
+    <configuration name="Inheritance.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ECMA/Inheritance.js" working-dir="$PROJECT_DIR$/ECMA">
       <method v="2" />
     </configuration>
-    <configuration name="Function Hosting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Hosting/Function Hosting.js" working-dir="$PROJECT_DIR$/Hosting">
+    <configuration name="Plus.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Operators/Plus.js" working-dir="$PROJECT_DIR$/Operators">
       <method v="2" />
     </configuration>
-    <configuration name="Global.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Variable/Global.js" working-dir="$PROJECT_DIR$/Variable">
+    <configuration name="Practice.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Randoms/Practice.js" working-dir="$PROJECT_DIR$/Randoms">
       <method v="2" />
     </configuration>
-    <configuration name="Variable hosting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Hosting/Variable hosting.js" working-dir="$PROJECT_DIR$/Hosting">
+    <configuration name="PromiseObject.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Promise/PromiseObject.js" working-dir="$PROJECT_DIR$/Promise">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Class.js" />
-        <item itemvalue="Node.js.Closer.js" />
-        <item itemvalue="Node.js.Function Hosting.js" />
-        <item itemvalue="Node.js.Variable hosting.js" />
-        <item itemvalue="Node.js.Global.js" />
+        <item itemvalue="Node.js.PromiseObject.js" />
+        <item itemvalue="Node.js.Plus.js" />
+        <item itemvalue="Node.js.Inheritance.js" />
+        <item itemvalue="Node.js.Concepts.js" />
+        <item itemvalue="Node.js.Practice.js" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +105,16 @@
       <workItem from="1568732915760" duration="5460000" />
       <workItem from="1568767407048" duration="4268000" />
       <workItem from="1568780807628" duration="3365000" />
-      <workItem from="1568817332136" duration="8688000" />
+      <workItem from="1568817332136" duration="8867000" />
+      <workItem from="1568856825966" duration="825000" />
+      <workItem from="1568865500046" duration="5044000" />
+      <workItem from="1568954555983" duration="878000" />
+      <workItem from="1569137301598" duration="11880000" />
+      <workItem from="1569199753580" duration="2296000" />
+      <workItem from="1569213149936" duration="6061000" />
+      <workItem from="1569252140180" duration="8186000" />
+      <workItem from="1569283054803" duration="6981000" />
+      <workItem from="1569298017260" duration="638000" />
     </task>
     <servers />
   </component>
